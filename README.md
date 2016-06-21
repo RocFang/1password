@@ -1,3 +1,3 @@
 # password generator
 
-http://fouber.github.io/1password/
+http://rocfang.github.io/1password/
